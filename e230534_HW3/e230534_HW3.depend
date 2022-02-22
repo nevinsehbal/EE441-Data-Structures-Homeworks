@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640352149 source:c:\users\nsehb\desktop\gumdrop_41\441-data\e230534_hw3\e230534_hw3\prev.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1642499261 source:c:\users\nsehb\desktop\gumdrop_41\441-data\e230534_hw3\e230534_hw3\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
